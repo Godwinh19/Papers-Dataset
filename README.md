@@ -27,6 +27,11 @@ The idea for this dataset arose when, while browsing through research journals, 
 2. Searching on the internet, we didn't find a database answering our need, so we first went to search for articles in order to build a database
 3. This is a starting point for NLP work, article research, research ideas, etc
 
+### Dataset format
+| date   | title       | abstract | keywords   | type               | accepted |
+| ------ | ----------- | -------- | ---------- | ------------------ | -------- |
+| --date | paper title | abstract | key, words | oral presentations | 1        |
+
 ## Contribution
 
 Your contribution is welcome
